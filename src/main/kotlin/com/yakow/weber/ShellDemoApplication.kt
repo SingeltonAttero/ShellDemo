@@ -1,4 +1,4 @@
-package com.yakow.weber.shellDemo.ShellDemo
+package com.yakow.weber
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
